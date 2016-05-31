@@ -1,5 +1,9 @@
 # PHP-Arguments
 
+[![Code Climate](https://codeclimate.com/github/monochromist/php-arguments/badges/gpa.svg)](https://codeclimate.com/github/monochromist/php-arguments)
+[![Test Coverage](https://codeclimate.com/github/monochromist/php-arguments/badges/coverage.svg)](https://codeclimate.com/github/monochromist/php-arguments/coverage)
+[![Issue Count](https://codeclimate.com/github/monochromist/php-arguments/badges/issue_count.svg)](https://codeclimate.com/github/monochromist/php-arguments)
+
 PHP-Arguments is an utility class for arguments validation code.
 Nothing special here, just some utility methods for libraries that need to enforce arguments validation
 and provide better error messages to developers using a library.
