@@ -1,6 +1,6 @@
 <?php
 
-namespace capesesp;
+namespace monochromist;
 
 use monochromist\Arguments;
 
