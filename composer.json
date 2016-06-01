@@ -1,8 +1,8 @@
 {
-  "name": "monochromist/php-arguments",
+  "name": "robotdance/php-arguments",
   "type": "library",
   "description": "Utility class for method arguments validation.",
-  "homepage": "https://github.com/monochromist/php-arguments",
+  "homepage": "https://github.com/robotdance/php-arguments",
   "keywords": ["php", "method", "function", "arguments", "validation", "utility"],
   "license": "MIT",
   "authors": [{
@@ -22,13 +22,13 @@
   },
   "autoload": {
     "psr-4": {
-      "monochromist\\": "src",
-      "monochromist\\tests\\": "tests"
+      "robotdance\\": "src",
+      "robotdance\\tests\\": "tests"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "monochromist\\tests\\": "tests"
+      "robotdance\\tests\\": "tests"
     }
   }
 }

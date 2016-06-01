@@ -1,8 +1,8 @@
 <?php
 
-namespace monochromist;
+namespace robotdance;
 
-use monochromist\Arguments;
+use robotdance\Arguments;
 
 class ArgumentsTest extends \PHPUnit_Framework_TestCase
 {

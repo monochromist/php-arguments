@@ -3,7 +3,7 @@
  * Utility class for arguments validation
  * @author MarcosMenegazzo (https://github.com/MarcosMenegazzo)
  */
-namespace monochromist;
+namespace robotdance;
 
 /**
  * Utility class for arguments validation
